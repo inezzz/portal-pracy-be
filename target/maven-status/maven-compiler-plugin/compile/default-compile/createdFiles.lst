@@ -1,0 +1,10 @@
+com\ig\portalpracy\service\DefaultJobsService.class
+com\ig\portalpracy\model\JobOffersDTO.class
+com\ig\portalpracy\repository\JobsRepository.class
+com\ig\portalpracy\service\JobsService.class
+com\ig\portalpracy\PortalPracyApplication.class
+com\ig\portalpracy\configuration\WebConfiguration.class
+com\ig\portalpracy\model\JobOfferDTO.class
+com\ig\portalpracy\controller\TestController.class
+com\ig\portalpracy\model\JobOffer.class
+com\ig\portalpracy\controller\JobsController.class
